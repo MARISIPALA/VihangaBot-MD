@@ -21,9 +21,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
-global.ownernomer = '94763427338'
+global.owner = ['0774472649']
+global.premium = ['0764472649']
+global.ownernomer = '0864472649'
 global.ownername = '៚shehan⁸⁵⁴¹⃟✦⃝̮̮〽️'
 global.botname = 'shehan MD BOT'
 global.footer = 'shehan MD'
@@ -34,7 +34,7 @@ global.sc = 'https://github.com/vihangabot'
 global.myweb = '🌙🤣'
 global.packname = 'shehan Md Sticker Bot'
 global.author = '៚shehan⁸⁵⁴¹⃟✦⃝̮̮〽️'
-global.autobio = 'true'
+global.autobio = 'false'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
